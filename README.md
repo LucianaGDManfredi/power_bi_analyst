@@ -13,6 +13,7 @@ Inspirado pelo projeto modelo apresentado durante as aulas, o aluno deveria cria
 - Botões para navegabilidade
 - Segmentadores de dados
 - Criar sozinha a segunda página do relatório
+- Projeto entregue está contido na pasta Desafio1 com o arquivo .pbix, print da publicação no Power BI Service, dataset, ícones
 
 ## :bar_chart: Meu Projeto 
 
